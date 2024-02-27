@@ -1,1 +1,3 @@
-Hello Cohort1 Group7, you can add your scripts here!
+February 27, 2024 meeting:
+
+1. review checksum usage in python scripts here!
